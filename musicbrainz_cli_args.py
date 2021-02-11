@@ -5,7 +5,7 @@
 
     Dependencies: 
         Linux: cdparanoia, ffmpeg, lltag, metaflac, libdiscid
-        PIP: musicbrainzngs, libdiscid
+        PIP: musicbrainzngs, python-libdiscid
 
         Fonts: My machine uses iosevka & sazanami for fonts.
                In order for viewing foreign scripts/glyphs,
