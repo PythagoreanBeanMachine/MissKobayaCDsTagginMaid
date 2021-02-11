@@ -1,5 +1,5 @@
 """
-    Author: Ryan Clendenning
+    Author: PythagoreanBeanMachine (PBM)
     Assignment: MSU CSC-360 Project
     Professor: Dr. Sengupta
 
